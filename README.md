@@ -1,7 +1,10 @@
 # TermDroid
 Desktop Environment Installer for various OS running on Termux
 
-#### Note:Use Python 3.x or upper version
+![screenshot_termux_20181019-202436 2](https://user-images.githubusercontent.com/32305505/47226191-8527a080-d3dd-11e8-9ddc-68182f546140.png)
+
+
+## Note:Use Python 3.x or upper version
 
 ## Installation
 1) git clone https://github.com/Deadpool2000/TermDroid.git
