@@ -1,10 +1,12 @@
 # TermDroid
 Desktop Environment Installer for various OS running on Termux
 
+#### Note:Use Python 3.x or upper version
+
 ## Installation
 1) git clone https://github.com/Deadpool2000/TermDroid.git
 2) chmod +x install.py
-3) python install.py
+3) python3 install.py
 
 ## How to use
 ### 1) LXDE Desktop Environment 
