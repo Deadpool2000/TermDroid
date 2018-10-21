@@ -26,3 +26,6 @@ e.g. DISPLAY=:1 startxfce4
 DISPLAY=:<session_number> mate-session
 
 e.g. DISPLAY=:1 mate-session
+
+
+If you have any query,send an email at thetrickboy007@gmail.com
