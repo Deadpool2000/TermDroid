@@ -13,19 +13,19 @@ Desktop Environment Installer for various OS running on Termux
 
 ## How to use
 ### 1) LXDE Desktop Environment 
-DISPLAY=:<session_number> startlxde
+DISPLAY=:<session_number> startlxde &
 
-e.g. DISPLAY=:1 startlxde
+e.g. DISPLAY=:1 startlxde &
 
 ### 1) XFCE4 Desktop Environment 
-DISPLAY=:<session_number> startxfce4
+DISPLAY=:<session_number> startxfce4 &
 
-e.g. DISPLAY=:1 startxfce4
+e.g. DISPLAY=:1 startxfce4 &
 
 ### 1) MATE Desktop Environment 
-DISPLAY=:<session_number> mate-session
+DISPLAY=:<session_number> mate-session &
 
-e.g. DISPLAY=:1 mate-session
+e.g. DISPLAY=:1 mate-session &
 
 
-If you have any query,send an email at thetrickboy007@gmail.com
+#### If you have any query,send an email at thetrickboy007@gmail.com
