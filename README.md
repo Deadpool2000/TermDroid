@@ -9,7 +9,11 @@ Desktop Environment Installer for various OS running on Termux
 2) chmod +x install.py
 3) python3 install.py
 
-## Note: Use Python 3.x or upper version
+## Note: 
+
+## 1) Use Python 3.x or upper version
+
+## 2) If your phone have 2GB+ RAM then install MATE Desktop Environment
 
 ## How to use
 ### 1) LXDE Desktop Environment 
