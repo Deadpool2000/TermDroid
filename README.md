@@ -5,9 +5,11 @@ Desktop Environment Installer for various OS running on Termux
 
 
 ## Installation
-1) git clone https://github.com/Deadpool2000/TermDroid.git
-2) chmod +x install.py
-3) python3 install.py
+1) First run your specific os on Termux e.g startkali,startarch,etc.
+Then your Operating System,Run following command:
+2) git clone https://github.com/Deadpool2000/TermDroid.git
+3) chmod +x install.py
+4) python3 install.py
 
 ## Note: 
 
@@ -16,6 +18,7 @@ Desktop Environment Installer for various OS running on Termux
 ### 2) If your phone have 2GB+ RAM then install MATE Desktop Environment otherwise install LXDE or XFCE
 
 ## How to use
+
 ### 1) LXDE Desktop Environment 
 DISPLAY=:<session_number> startlxde &
 
