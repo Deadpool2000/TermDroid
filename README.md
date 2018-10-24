@@ -21,15 +21,17 @@ DISPLAY=:<session_number> startlxde &
 
 e.g. DISPLAY=:1 startlxde &
 
-### 1) XFCE4 Desktop Environment 
+### 2) XFCE4 Desktop Environment 
 DISPLAY=:<session_number> startxfce4 &
 
 e.g. DISPLAY=:1 startxfce4 &
 
-### 1) MATE Desktop Environment 
+### 3) MATE Desktop Environment 
 DISPLAY=:<session_number> mate-session &
 
 e.g. DISPLAY=:1 mate-session &
+
+#### After this,Open VNC Viewer,Enter address as 'localhost:5901'(Here 1 in 5901 is your session number) and connect 
 
 
 #### If you have any query,send an email at thetrickboy007@gmail.com
