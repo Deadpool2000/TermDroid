@@ -33,5 +33,8 @@ e.g. DISPLAY=:1 mate-session &
 
 #### After this,Open VNC Viewer,Enter address as 'localhost:5901'(Here 1 in 5901 is your session number) and connect 
 
+![screenshot_vnc viewer_20181024-092044 2](https://user-images.githubusercontent.com/32305505/47405269-6ecb6d00-d76e-11e8-8a5e-1ac3d54bbfef.png)
+
+
 
 #### If you have any query,send an email at thetrickboy007@gmail.com
