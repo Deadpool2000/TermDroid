@@ -1,8 +1,11 @@
-# TermDroid
+# TermDroid (v2.0)
 GUI Installer for various OS running on Termux
 
 ![screenshot_termux_20181019-202436 2](https://user-images.githubusercontent.com/32305505/47226191-8527a080-d3dd-11e8-9ddc-68182f546140.png)
 
+## What's new?
+- Added support for Parrot OS 
+- Various improvements and bugs fixed
 
 ## Installation
 1) First run your respective os on termux
@@ -14,17 +17,17 @@ GUI Installer for various OS running on Termux
 
 ## How to use
 
-### 1) LXDE Desktop Environment 
+#### 1) LXDE Desktop Environment 
 DISPLAY=:<session_number> startlxde &
 
 e.g. DISPLAY=:1 startlxde &
 
-### 2) XFCE4 Desktop Environment 
+#### 2) XFCE4 Desktop Environment 
 DISPLAY=:<session_number> startxfce4 &
 
 e.g. DISPLAY=:1 startxfce4 &
 
-### 3) MATE Desktop Environment 
+#### 3) MATE Desktop Environment 
 DISPLAY=:<session_number> mate-session &
 
 e.g. DISPLAY=:1 mate-session &
