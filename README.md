@@ -1,7 +1,7 @@
 # TermDroid (v2.0)
 GUI Installer for various OS running on Termux
 
-![screenshot_termux_20181019-202436 2](https://user-images.githubusercontent.com/32305505/47226191-8527a080-d3dd-11e8-9ddc-68182f546140.png)
+![Screenshot at 2019-04-15 22-02-38](https://user-images.githubusercontent.com/32305505/56149678-b7037380-5fca-11e9-8282-9ce21c3ca9e0.png)
 
 ## What's new?
 - Added support for Parrot OS 
