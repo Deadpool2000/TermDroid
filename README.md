@@ -8,7 +8,7 @@ GUI Installer for various OS running on Termux
 - Various improvements and bugs fixed
 
 ## Installation
-1) First run your respective os on termux
+1) First run your respective operating system in Termux
 2) git clone https://github.com/Deadpool2000/TermDroid.git
 3) chmod +x install.py
 4) python3 install.py
