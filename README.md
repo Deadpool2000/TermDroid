@@ -1,5 +1,5 @@
 # TermDroid (v2.0)
-GUI Installer for various OS running on Termux
+**GUI Installer for various OS running on Termux**
 
 ![Screenshot at 2019-04-15 22-02-38](https://user-images.githubusercontent.com/32305505/56149678-b7037380-5fca-11e9-8282-9ce21c3ca9e0.png)
 
