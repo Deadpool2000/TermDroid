@@ -38,4 +38,4 @@ e.g. DISPLAY=:1 mate-session &
 
 
 
-#### If you have any query,send an email at thetrickboy007@gmail.com
+#### If you have any query,send an email at d2kyt@protonmail.com
