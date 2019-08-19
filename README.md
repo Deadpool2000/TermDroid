@@ -13,7 +13,7 @@
 3) chmod +x install.py
 4) python3 install.py
 
-## Note: Use Python 3.x or upper version
+## Note: Use Python 3.x
 
 ## How to use
 
