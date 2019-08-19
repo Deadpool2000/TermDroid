@@ -1,6 +1,7 @@
 import os
 os.system('clear')
-try:    
+try:
+    # Main Menu
     os.system('echo "\e[93m"')
     print("""
 #############################################################
@@ -16,6 +17,9 @@ try:
 #############################################################
 
          Note: Before using,please read README.md """)
+
+    # OS List
+    
     def list():
         os.system('echo "\e[92m"')
         print("""
@@ -30,6 +34,9 @@ try:
 5) Parrot OS
 
 99) Exit\n""")
+
+    # Environment List
+    
     def l1():
         os.system('echo "\e[96m"')
         print("""
@@ -47,6 +54,9 @@ try:
         q=input(">>> Select your choice: ")
         if q=="1":
             l1()
+
+            # Arch Linux
+            
             def arch():
                 os.system('echo "\e[97m"')
                 q=input(">>> Select your choice: ")
@@ -91,7 +101,8 @@ try:
                     print("#################################################################\n")
                     print("Installing XFCE................\n")
                     os.system('pacman -S --noconfirm mate mate-extra')
-                    os.system('pacman -S --noconfirm tigervnc')
+                    os.system('pacman -S --noconfirm tigervnc')--> Select your operating system for installation
+
                     print("#################################################################\n")
                     os.system('echo "\e[92m"')
                     print("Now start MATE Desktop using vncserver")
@@ -106,6 +117,9 @@ try:
                     l1()
                     arch()
             arch()
+            
+        # Kali/KaliNethunter
+        
         elif q=="2":
             l1()
             def kali():
@@ -161,6 +175,9 @@ try:
                     l1()
                     kali()
             kali()
+            
+        # Ubuntu
+        
         elif q=="3":
             l1()
             def ubu():
@@ -214,6 +231,9 @@ try:
                     l1()
                     ubu()
             ubu()
+            
+        # Debian
+        
         elif q=="4":
             l1()
             def deb():
@@ -269,6 +289,9 @@ try:
                     l1()
                     deb()
             deb()
+
+        # Parrot OS (Newly added)
+        
         elif q=="5":
             l1()
             def par():
@@ -324,6 +347,9 @@ try:
                     l1()
                     par()
             par()
+
+        # Exit 
+        
         elif q=="99":
             os.system('echo "\e[93m"')
             print("\nExit.........\nGood Bye")
