@@ -101,8 +101,7 @@ try:
                     print("#################################################################\n")
                     print("Installing XFCE................\n")
                     os.system('pacman -S --noconfirm mate mate-extra')
-                    os.system('pacman -S --noconfirm tigervnc')--> Select your operating system for installation
-
+                    os.system('pacman -S --noconfirm tigervnc')
                     print("#################################################################\n")
                     os.system('echo "\e[92m"')
                     print("Now start MATE Desktop using vncserver")
