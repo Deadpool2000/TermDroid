@@ -1,3 +1,11 @@
+# TermDroid
+
+# Author - D3adpool2K
+
+# github - https://github.com/Deadpool2000
+
+
+
 import os
 os.system('clear')
 try:
