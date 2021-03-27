@@ -36,6 +36,20 @@ e.g. DISPLAY=:1 mate-session &
 
 ![screenshot_vnc viewer_20181024-092044 2](https://user-images.githubusercontent.com/32305505/47405269-6ecb6d00-d76e-11e8-8a5e-1ac3d54bbfef.png)
 
+-----------------------------------------------------------------------------------------------------
+
+
+# Show your support
+
+
+Don't buy me a coffee.I HATE COFFEE!
+
+Just show your support here -
+
+[![Bitcoin Donate Button](https://deadpool2000.github.io/bitcoin-395-920580(1).png)](https://deadpool2000.github.io/btc.html)
+
+[![Ethereum Donate Button](https://deadpool2000.github.io/New%20Project(1).png)](https://deadpool2000.github.io/eth.html)
+
 
 
 #### If you have any query,send an email at d2kyt@protonmail.com
